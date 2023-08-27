@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1>¡Hola Mundo! 🌍</h1>
-<h4>🔭 Hi, My name is Geovanny Benjamin, i'm 18 years old 👨‍💻</h4>
+<h4>🔭 Hi, My name is Geovanny Benjamin, i'm 18 years old.👨‍💻</h4>
 <h4>🌱Future web developer and mobile developer🌳</h4>
 
 
