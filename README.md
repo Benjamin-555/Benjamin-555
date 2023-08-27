@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 <bold>Hi, My name is Geovanny Benjamin, i'm 18 years old and i want to be a future Backend developer and mobile developer.<bold> 👨‍💻
+🔭 <h3><bold>Hi, My name is Geovanny Benjamin, i'm 18 years old and i want to be a future Backend developer and mobile developer.</bold></h3> 👨‍💻
 
 
 ## 🌐 Socials:
