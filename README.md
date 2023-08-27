@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>🌱 I’m currently learning web development and mobile development<br>
+🔭 Hi, My name is Geovanny Benjamin, i'm 18 years old and i want to be a future Backend developer and mobile developer. 👨‍💻
 
 
 ## 🌐 Socials:
