@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Geovanny Benjamin and I'm a Sfotware Development Student, from Dominican Republic<br>⚛💻🎮</h2>
+<h2 align="center">Hi 👋! My name is Geovanny Benjamin and I'm a Software Development Student, from Dominican Republic<br>⚛💻🎮</h2>
 
 ###
 
