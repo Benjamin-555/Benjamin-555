@@ -19,4 +19,4 @@ Hi, my name is Geovanny Benjamin and i am a student of Software Development. i'm
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/geovanny-benjamin-beato-nivar-960729349/" target="_blank">Geovanny Benjamin</a> Email: johndoe@gmail.com</p>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/geovanny-benjamin-beato-nivar-960729349/" target="_blank">Geovanny Benjamin</a>
