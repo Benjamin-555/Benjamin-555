@@ -9,6 +9,8 @@ Hi, my name is Geovanny Benjamin and i am a student of Software Development. i'm
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
 <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff"> 
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=bootstrap&logoColor=purple"> 
+
 
 ## GitHub Stats
 
