@@ -1,11 +1,13 @@
 ## About Me
 
-Hi, my name is Geovanny Benjamin and i am a student of Software Development. i'm learning JavaScript and creating projects with it.
+Hi, my name is Geovanny Benjamin and i am a student of Software Development. I'm learning JavaScript and creating projects with it.
 
-🎯Goals:
--Learn JavaScript🧩
--Learn React and its tecnologies⚛️
--Become a FullStack Programmer 🧑‍💻
+## 🎯Goals:
+<ul>
+  <li>Learn JavaScript🧩</li>
+  <li>Learn React and its tecnologies⚛️</li>
+  <li>Become a FullStack Programmer 🧑‍💻</li>
+</ul>
 
 ## My Skills
 
