@@ -2,6 +2,11 @@
 
 Hi, my name is Geovanny Benjamin and i am a student of Software Development. i'm learning JavaScript and creating projects with it.
 
+🎯Goals:
+-Learn JavaScript🧩
+-Learn React and its tecnologies⚛️
+-Become a FullStack Programmer 🧑‍💻
+
 ## My Skills
 
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
