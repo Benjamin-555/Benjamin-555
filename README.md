@@ -4,7 +4,7 @@ Hi, my name is Geovanny Benjamin and i am a student of Software Development. I'm
 
 ## 🎯Goals:
 <ul>
-  <li>Learn JavaScript🧩</li>
+  <li>Learning JavaScript🧩</li>
   <li>Learn React and its tecnologies⚛️</li>
   <li>Become a FullStack Programmer 🧑‍💻</li>
 </ul>
